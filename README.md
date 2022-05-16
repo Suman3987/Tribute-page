@@ -1,1 +1,1 @@
- https://github.com/Suman3987/Website
+ https://suman3987.github.io/Tribute-page/
